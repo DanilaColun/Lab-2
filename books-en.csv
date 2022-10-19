@@ -1,4 +1,4 @@
-ISBN;Book-Title;Book-Author;Year-Of-Publication;Publisher;Downloads;Price
+ISBN;Book-Title;Book-Author;Year-Of-Publication;Publisher;1;Price
 195153448;Classical Mythology;Mark P. O. Morford;2002;Oxford University Press;2;269
 2005018;Clara Callan;Richard Bruce Wright;2001;HarperFlamingo Canada;11;219
 60973129;Decision in Normandy;Carlo D'Este;1991;HarperPerennial;25;199
@@ -6449,7 +6449,7 @@ B00009ANY9;Cane River;Lalita Tademy;2001;Warner Books;20;169
 297828991;Mr Foreigner;Matthew Kneale;2003;Trafalgar Square;8;66
 61013722;The Clairvoyant;Marian Thurm;1999;HarperTorch;1;0
 451163540;Triple;Ken Follett;1991;Signet Book;1;0
-735201994;"Peterman Rides Again: Adventures Continue with the Real \J. Peterman\"" Through Life &amp";" the Catalog Business""";John Peterman;2000;1;0
+735201994;"Peterman Rides Again: Adventures Continue with the Real \J. Peterman\"" Through Life &amp";" the Catalog Business""";1992;2000;1;0
 1414011458;No More Bobs;Cynthia Borris;2003;Authorhouse;13;349
 1564029654;Owl Babies;Martin Waddell;1996;Candlewick Press (MA);0;69,9
 307121259;I Am a Bunny (Golden Sturdy Book);O. Risom;1963;Golden Books;0;0
